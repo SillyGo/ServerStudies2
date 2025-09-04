@@ -1,0 +1,3 @@
+# Server_Studies
+This is where i shall post code from my server studies. I plan to use this for projects in Embedded Systems.
+Testing...
